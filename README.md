@@ -14,8 +14,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AakashPatil1&theme=dark&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AakashPatil1&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AakashPatil1&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AakashPatil1&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4) -->
+# 📖 Learning
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin_Multiplatform-264653?style=plastic&logo=kotlin)<br>
+![Compose Multiplatform](https://img.shields.io/badge/Compose_Multiplatform-264653?style=plastic&logo=jetpackcompose)
 -
 <!--![Aakash's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dev_aakash&layout=compact&theme=synthwave&v=2)-->
 <h2>Connect with me!</h2>
